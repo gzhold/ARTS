@@ -19,4 +19,7 @@ leetcode: https://leetcode.com/problems/majority-element/
 2 先排序，再取下标为len/2的值
 
 分享：spark shuffle  https://wongxingjun.github.io/2016/05/27/Spark%E6%9E%B6%E6%9E%84%E4%B9%8Bshuffle/
-      https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html //todo
+      https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html
+算法：
+ 朴素贝叶斯 https://www.jianshu.com/p/0eb79c2dcbd0
+ 决策树 https://www.jianshu.com/p/d3c3cc6d6be6
