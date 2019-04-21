@@ -1,4 +1,4 @@
-# ARTS
+#ARTS
 1.Algorithm：每周至少做一个 leetcode 的算法题
 2.Review：阅读并点评至少一篇英文技术文章
 3.Tip：学习至少一个技术技巧
@@ -23,3 +23,9 @@ leetcode: https://leetcode.com/problems/majority-element/
 算法：
  朴素贝叶斯 https://www.jianshu.com/p/0eb79c2dcbd0
  决策树 https://www.jianshu.com/p/d3c3cc6d6be6
+
+第四周打卡：
+leetcode：https://leetcode.com/problems/first-missing-positive/submissions/
+缺失的最小正整数：部分数据比较并替换，排好序后再依次遍历。
+share: spark memory management https://0x0fff.com/spark-memory-management/
+svm demo : https://www.jianshu.com/p/40a99cdb05fd
