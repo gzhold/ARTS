@@ -29,3 +29,9 @@ leetcode：https://leetcode.com/problems/first-missing-positive/submissions/
 缺失的最小正整数：部分数据比较并替换，排好序后再依次遍历。
 share: spark memory management https://0x0fff.com/spark-memory-management/
 svm demo : https://www.jianshu.com/p/40a99cdb05fd
+
+第五周打卡：
+knn： https://www.jianshu.com/p/216ce159674a
+leetcode: 这周主要是练习链表操作，完成leetcode 206， 141， 21
+
+第六周打卡
