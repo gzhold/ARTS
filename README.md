@@ -38,3 +38,8 @@ leetcode: 这周主要是练习链表操作，完成leetcode 206， 141， 21
 leetcode: 实现876    整理代码：https://github.com/gzhold/LeetCode
 k-means: https://www.jianshu.com/u/33ecd2f36973
 代码实现都保存在本地，未开放出来，等后续整理好一起提交。
+
+第七周打卡：
+leetcode： https://leetcode.com/problems/design-circular-deque/  双链表实现
+学习xpath的使用，python实现微博自动化关注
+
