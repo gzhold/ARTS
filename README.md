@@ -43,3 +43,6 @@ k-means: https://www.jianshu.com/u/33ecd2f36973
 leetcode： https://leetcode.com/problems/design-circular-deque/  双链表实现
 学习xpath的使用，python实现微博自动化关注
 
+第八周打卡：
+leetcode: Climbing Stairs 数组实现，递归实现leetcode提交超时，本地单元测试可以，运行速度较慢
+词云的demo实现以及图形化展示，python的列表和元组重新学习
