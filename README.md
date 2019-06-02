@@ -46,3 +46,10 @@ leetcode： https://leetcode.com/problems/design-circular-deque/  双链表实�
 第八周打卡：
 leetcode: Climbing Stairs 数组实现，递归实现leetcode提交超时，本地单元测试可以，运行速度较慢
 词云的demo实现以及图形化展示，python的列表和元组重新学习
+
+第九周打卡：
+leetcode：Climbing Stairs  python数组实现
+Sliding Window Maximum：python双端队列实现
+
+信用卡违约分析： python比较各个算法的准确率（svm，决策树，随机森林，adaboost，knn）
+信用卡诈骗分析： python逻辑回归实现
