@@ -53,3 +53,13 @@ Sliding Window Maximum：python双端队列实现
 
 信用卡违约分析： python比较各个算法的准确率（svm，决策树，随机森林，adaboost，knn）
 信用卡诈骗分析： python逻辑回归实现
+
+第十周打卡：
+leetcode:  
+1 Kth Largest Element in an Array  快排的思路， 分区+ 递归实现（另一种：min heap）
+2 Merge k Sorted Lists    min heap（另一种：数组+排序）
+
+study： https://www.kaggle.com/learn-forum/53782 （roc & auc）
+
+实现demo：
+沪市指数走势预测，使用时间序列 ARMA  
