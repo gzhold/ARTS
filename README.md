@@ -63,3 +63,9 @@ study： https://www.kaggle.com/learn-forum/53782 （roc & auc）
 
 实现demo：
 沪市指数走势预测，使用时间序列 ARMA  
+
+第十一周打卡：
+这周主要是数据结构的练习
+（1）Remove Duplicates from Sorted Array  通过比较临近的两个元素，不想等就替换值
+（2）Missing Number 高斯函数
+（3）Kth Largest Element in an Array 快排，取下表len（nums）-k的值
