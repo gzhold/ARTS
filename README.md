@@ -69,3 +69,10 @@ study： https://www.kaggle.com/learn-forum/53782 （roc & auc）
 （1）Remove Duplicates from Sorted Array  通过比较临近的两个元素，不想等就替换值
 （2）Missing Number 高斯函数
 （3）Kth Largest Element in an Array 快排，取下表len（nums）-k的值
+
+第十二周：
+1 Longest Substring Without Repeating Characters    python  字典实现
+2 Pow(x, n)   二分查找实现
+
+3 java AQS实现原理
+4 java  线程池实现原理。
