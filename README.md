@@ -76,3 +76,10 @@ study： https://www.kaggle.com/learn-forum/53782 （roc & auc）
 
 3 java AQS实现原理
 4 java  线程池实现原理。
+
+第十三周：
+1 Path Sum     递归实现,思路：sum-val 递归递减，直到为0
+2 Validate Binary Search Tree 递归实现,思路：max, min
+3 Maximum Depth of Binary Tree   递归实现， 思路：max(left, right)+1
+4 classload理解
+5 jdk spi理解
