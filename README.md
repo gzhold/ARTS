@@ -83,3 +83,13 @@ study： https://www.kaggle.com/learn-forum/53782 （roc & auc）
 3 Maximum Depth of Binary Tree   递归实现， 思路：max(left, right)+1
 4 classload理解
 5 jdk spi理解
+
+第十四周：
+1 Binary Tree Inorder Traversal，Binary Tree Preorder Traversal， Binary Tree Postorder Traversal    递归，栈实现
+2 Kth Smallest Element in a BST 中序遍历实现
+3 Minimum Distance Between BST Nodes 中序遍历实现
+4 开始学习dubbo源码
+学习总结：dubbo 对spi扩展
+（1）jdkspi仅仅通过接口类名获取所有实现，而ExtensionLoader则通过接口类名和key值获取一个实现；
+（2）Adaptive实现，就是生成一个代理类，这样就可以根据实际调用时的一些参数动态决定要调用的类了。
+（3）自动包装实现，这种实现的类一般是自动激活的，常用于包装类，比如Protocol的两个实现类：ProtocolFilterWrapper、ProtocolListenerWrapper。
